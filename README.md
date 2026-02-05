@@ -1,4 +1,4 @@
-# CachyCalc
+# Just Calculate
 
 Una calculadora simple y moderna para Wayland/Hyprland escrita en Python y GTK4.
 
